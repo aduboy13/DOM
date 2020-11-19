@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<webpagedevelop>
+	<movie>
+		<name>Padmaavat</name>
+		<rating>5.3</rating>
+		<language>Hindi</language>
+		<cost>585Cr</cost>
+	</movie>
+	<movie>
+		<name>Baaghi 2</name>
+		<rating>4.8</rating>
+		<language>Hindi</language>
+		<cost>254Cr</cost>
+	</movie>
+	<movie>
+		<name>Lion king</name>
+		<rating>7.4</rating>
+		<language>English</language>
+		<cost>772Cr</cost>
+	</movie>
+	
+	<movie>
+		<name>Fast and Furious</name>
+		<rating>8.7</rating>
+		<language>English</language>
+		<cost>746Cr</cost>
+	</movie>
+	<movie>
+		<name>Men In Black</name>
+		<rating>6.2</rating>
+		<language>English</language>
+		<cost>793Cr</cost>
+	</movie>
+</webpagedevelop>

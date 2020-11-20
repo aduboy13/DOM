@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="ISO8859-1" ?>
 <webpagedevelop>
-	<movie>
-		<name>Padmaavat</name>
+	<hotel>
+		<name>Holiday Inn</name>
 		<rating>5.3</rating>
-		<language>Hindi</language>
-		<cost>585Cr</cost>
-	</movie>
-	<movie>
-		<name>Baaghi 2</name>
+		<location>Goa</location>
+		<cost>585rs</cost>
+	</hotel>
+	<hotel>
+		<name>Crown Plaza</name>
 		<rating>4.8</rating>
-		<language>Hindi</language>
-		<cost>254Cr</cost>
-	</movie>
-	<movie>
-		<name>Lion king</name>
+		<location>Mumbai</location>
+		<cost>254rs</cost>
+	</hotel>
+	<hotel>
+		<name>TAJ</name>
 		<rating>7.4</rating>
-		<language>English</language>
-		<cost>772Cr</cost>
-	</movie>
+		<location>Mumbai</location>
+		<cost>772rs</cost>
+	</hotel>
 	
-	<movie>
-		<name>Fast and Furious</name>
+	<hotel>
+		<name>Four Squares</name>
 		<rating>8.7</rating>
-		<language>English</language>
-		<cost>746Cr</cost>
-	</movie>
-	<movie>
-		<name>Men In Black</name>
+		<location>Delhi</location>
+		<cost>746rs</cost>
+	</hotel>
+	<hotel>
+		<name>Ritz Calrlton</name>
 		<rating>6.2</rating>
-		<language>English</language>
-		<cost>793Cr</cost>
-	</movie>
+		<location>Bangalore</location>		
+		<cost>793rs</cost>
+	</hotel>
 </webpagedevelop>
